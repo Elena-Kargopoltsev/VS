@@ -1,0 +1,39 @@
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.exe.config
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.exe
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.pdb
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.xml
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbprojAssemblyReference.cache
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.MainForm.resources
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.Resources.resources
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.SummaryForm.resources
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.GenerateResource.cache
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.exe
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.xml
+C:\Users\ekarg\Desktop\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.pdb
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.exe.config
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.exe
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.pdb
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\bin\Debug\LAP 4.xml
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.AssemblyReference.cache
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.MainForm.resources
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.Resources.resources
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP_4.SummaryForm.resources
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.GenerateResource.cache
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.exe
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.xml
+D:\WWU courses\Spring 2021\MIS 322\week 6\LAP 4\LAP 4\LAP 4\obj\Debug\LAP 4.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\bin\Debug\LAP 4.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\bin\Debug\LAP 4.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\bin\Debug\LAP 4.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\bin\Debug\LAP 4.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.AssemblyReference.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP_4.MainForm.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP_4.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP_4.SummaryForm.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 4\LAP 4\obj\Debug\LAP 4.pdb
