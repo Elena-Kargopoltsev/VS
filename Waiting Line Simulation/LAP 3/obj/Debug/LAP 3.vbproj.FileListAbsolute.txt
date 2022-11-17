@@ -1,0 +1,24 @@
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\bin\Debug\LAP 3.exe.config
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\bin\Debug\LAP 3.exe
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\bin\Debug\LAP 3.pdb
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\bin\Debug\LAP 3.xml
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.vbprojAssemblyReference.cache
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP_3.Form1.resources
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP_3.Resources.resources
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.GenerateResource.cache
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.exe
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.xml
+C:\Users\ekarg\Desktop\MIS 322\week 4 Tue\LAP 3\LAP 3\obj\Debug\LAP 3.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\bin\Debug\LAP 3.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\bin\Debug\LAP 3.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\bin\Debug\LAP 3.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\bin\Debug\LAP 3.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.AssemblyReference.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP_3.Form1.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP_3.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP 3\LAP 3\obj\Debug\LAP 3.pdb

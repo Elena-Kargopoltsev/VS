@@ -1,0 +1,24 @@
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\bin\Debug\LAP1.exe.config
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\bin\Debug\LAP1.exe
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\bin\Debug\LAP1.pdb
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\bin\Debug\LAP1.xml
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.vbprojAssemblyReference.cache
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.Form1.resources
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.Resources.resources
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.vbproj.GenerateResource.cache
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.exe
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.xml
+C:\Users\ekarg\Desktop\MIS 322\week 2\LAP1\LAP1\obj\Debug\LAP1.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\bin\Debug\LAP1.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\bin\Debug\LAP1.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\bin\Debug\LAP1.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\bin\Debug\LAP1.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.vbproj.AssemblyReference.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.Form1.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP1\LAP1\obj\Debug\LAP1.pdb
