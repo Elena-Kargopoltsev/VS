@@ -1,0 +1,28 @@
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.vbprojAssemblyReference.cache
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.Resources.resources
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.Reorder_Point_Report.resources
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.vbproj.GenerateResource.cache
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\bin\Debug\ProductList.mdb
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\bin\Debug\Final.exe.config
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\bin\Debug\Final.exe
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\bin\Debug\Final.pdb
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\bin\Debug\Final.xml
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.exe
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.xml
+C:\Users\ekarg\Desktop\MIS 322\Final\Final\Final\obj\Debug\Final.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\bin\Debug\ProductList.mdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\bin\Debug\Final.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\bin\Debug\Final.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\bin\Debug\Final.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\bin\Debug\Final.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.vbproj.AssemblyReference.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.Form1.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.Reorder_Point_Report.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Final\Final\Final\obj\Debug\Final.pdb
