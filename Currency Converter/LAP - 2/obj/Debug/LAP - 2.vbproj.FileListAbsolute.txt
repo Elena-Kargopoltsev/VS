@@ -1,0 +1,24 @@
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\bin\Debug\LAP - 2.exe.config
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\bin\Debug\LAP - 2.exe
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\bin\Debug\LAP - 2.pdb
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\bin\Debug\LAP - 2.xml
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbprojAssemblyReference.cache
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP___2.Form1.resources
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP___2.Resources.resources
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbproj.GenerateResource.cache
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.exe
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.xml
+C:\Users\ekarg\source\repos\LAP - 2\LAP - 2\obj\Debug\LAP - 2.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\bin\Debug\LAP - 2.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\bin\Debug\LAP - 2.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\bin\Debug\LAP - 2.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\bin\Debug\LAP - 2.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP___2.Form1.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP___2.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\LAP - 2\LAP - 2\obj\Debug\LAP - 2.vbproj.AssemblyReference.cache

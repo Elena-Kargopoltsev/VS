@@ -1,0 +1,24 @@
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\bin\Debug\Midterm.xml
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.vbprojAssemblyReference.cache
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.Resources.resources
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.vbproj.GenerateResource.cache
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.vbproj.CoreCompileInputs.cache
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.xml
+C:\Users\ekarg\Desktop\MIS 322\Week 5 Met term\Midterm\Midterm\obj\Debug\Midterm.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\bin\Debug\Midterm.exe.config
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\bin\Debug\Midterm.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\bin\Debug\Midterm.pdb
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\bin\Debug\Midterm.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.vbproj.AssemblyReference.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.Resources.resources
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.vbproj.GenerateResource.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.vbproj.CoreCompileInputs.cache
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.exe
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.xml
+D:\WWU courses\Проекты для портфолио 2022\Business Applications Development\Midterm\Midterm\obj\Debug\Midterm.pdb
